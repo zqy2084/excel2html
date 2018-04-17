@@ -12,6 +12,7 @@ this is a web service program, so a "modern" browser is needed to
 launch to see the presentation page.
 start the web service:
 >    python app.py
+
 then access http://127.0.0.1:5000/ with a browser(chrome tested to
 be ok)
 a table with simple searching/ordering enable with show.(filtering
