@@ -5,13 +5,13 @@ excel sheet and to present the data with a table in webpage.
 ## setup
 setup a python 3.6 (only tested with 3.6) virtualenv
 and then run:
-    pip install -r requiremens.md
+>    pip install -r requiremens.md
 
 ## run program
 this is a web service program, so a "modern" browser is needed to
 launch to see the presentation page.
 start the web service:
-    python app.py
+>    python app.py
 then access http://127.0.0.1:5000/ with a browser(chrome tested to
 be ok)
 a table with simple searching/ordering enable with show.(filtering
